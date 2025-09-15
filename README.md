@@ -10,7 +10,8 @@ A UX design project exploring user budgeting habits, goals, and preferences to g
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](Screenshot%202025-09-15%20121659.png)
+
 
 ---
 
