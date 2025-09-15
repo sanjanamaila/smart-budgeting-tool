@@ -8,8 +8,9 @@ A UX design project exploring user budgeting habits, goals, and preferences to g
 [Take the Survey Here](https://docs.google.com/forms/d/1Acqvi0jdeANOncpnD3p4W3QH-wixfGH-Hk8Qagd6trE/edit?usp=drivesdk)
 
 ---
-## 📊Dashboard
-![Dashboard Preview](images/dashboard.png.png)
+## 📊 Dashboard Preview
+![Dashboard Preview](dashboard.png.png)
+
 
 
 
