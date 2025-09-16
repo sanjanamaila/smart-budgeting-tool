@@ -12,8 +12,7 @@ A UX design project exploring user budgeting habits, goals, and preferences to g
 ![Dashboard Preview](dashboard.png.png)
 
 ## 🔗 Microsoft PowerBI Link
-
-
+Budget Survey Dashboard.pbix
 
 
 
